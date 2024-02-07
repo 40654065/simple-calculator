@@ -1,0 +1,30 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.con{
+   
+        background-color: rgb(13, 177, 222);
+        color: rgb(236, 240, 237);
+        margin-left: 25%;
+        margin-right: 28%;
+        margin-top: 12%;
+        height: 30vh;
+        padding-left: 7%;
+        padding-top: 3%;
+        padding-bottom: 8%;
+        font-size: 20px;
+ 
+
+}
+#jayu{
+    width: 100px;
+    height: 33px;
+    background-color: rgb(232, 251, 32);
+    color: rgb(22, 20, 20);
+    border-radius: 5px;
+}
+#j,#ja,#jay{
+    height:30px;
+    width: 50%;
+}
